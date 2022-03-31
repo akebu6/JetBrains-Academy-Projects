@@ -18,5 +18,8 @@ A collection of all my projects from the Kotlin Basic Track on JetBrains Academy
 ### 5. Simple Tic-Tac-Toe
 #### Objective:
 
+### 6. Coffee Machine
+#### Objectives:
+
 ### 7. Parking Lot
 #### Objectives:
