@@ -23,3 +23,9 @@ A collection of all my projects from the Kotlin Basic Track on JetBrains Academy
 
 ### 7. Parking Lot
 #### Objectives:
+
+### 8. Pawns Only Chess
+#### Objectives:
+
+### 9. Steganography & Cryptography
+#### Objectives:
